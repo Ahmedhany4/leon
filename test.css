@@ -14,7 +14,7 @@ section {
   display: inline-block;
   background-color: #f6f6f6;
   margin-left: calc(6% / 4) ;
-  
   margin-top:calc(1.25%);
   margin-bottom:calc(2.5%);
+  border-radius: 10px;
 }
